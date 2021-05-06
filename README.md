@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, we are Luca, Yuri and Karni</h1>
 <h3 align="center">3 Student from ITIS M. Delpozzo</h3>
 
-- 🔭we are currently working on **EzzNotes**
+- 🔭 We are currently working on **EzzNotes**
 
-- 🌱 I’m currently learning **HTML, Python, CSS, JS**
+- 🌱 We are currently learning **HTML, Python, CSS, JS**
 
-- 👨‍💻 All of our projects are on [Our Repo's](Our Repo's)
+- 👨‍💻 All of our projects are on [https://github.com/EzzNotes/Frontend/]
 
 - 📫 How to reach us **luca.armando@itiscuneo.eu**
 
